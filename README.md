@@ -1,5 +1,5 @@
 
-# Qt Examples
+# Qt examples
 
 shows how to use Qt widgets only by programming code (c++17).
 
